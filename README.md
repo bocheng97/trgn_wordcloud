@@ -6,6 +6,6 @@
 ## Dependencies
 ### A list of programs needed for this to work
 *Dependency 1: Generate Wordcloud Image
-* Dependency 2: Web Server
+ Dependency 2: Web Server
 ## Contact
 ### Bo Cheng boc@usc.edu 
